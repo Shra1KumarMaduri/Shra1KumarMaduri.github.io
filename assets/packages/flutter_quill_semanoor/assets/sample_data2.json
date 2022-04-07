@@ -1,0 +1,41 @@
+[
+    {
+        "insert": {
+            "paint": ""
+        },
+        "attributes": {
+            "width": "230",
+            "style": "display: block; margin: auto; mobileWidth: 50; mobileHeight: 50; mobileMargin: 10; mobileAlignment: topLeft"
+        }
+    },
+    {
+        "insert": {
+            "image": "https://user-images.githubusercontent.com/122956/72955931-ccc07900-3d52-11ea-89b1-d468a6e2aa2b.png"
+        },
+        "attributes": {
+            "width": "230",
+            "style": "display: block; margin: auto; mobileWidth: 50; mobileHeight: 50; mobileMargin: 10; mobileAlignment: topLeft"
+        }
+    },
+    {
+        "insert": {
+            "youtube": "https://www.youtube.com/watch?v=WhWc3b3KhnY"
+        },
+        "attributes": {
+            "width": "230",
+            "style": "display: block; margin: auto; mobileWidth: 50; mobileHeight: 50; mobileMargin: 10; mobileAlignment: topLeft"
+        }
+    },
+    {
+        "insert": {
+            "video": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1280_10MG.mp4"
+        },
+        "attributes": {
+            "width": "230",
+            "style": "display: block; margin: auto; mobileWidth: 50; mobileHeight: 50; mobileMargin: 10; mobileAlignment: topLeft"
+        }
+    },
+    {
+        "insert": "\n"
+    }
+]

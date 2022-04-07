@@ -1,0 +1,52 @@
+{
+    "userId": "cjzv9bh3m440n0a991tje5bh1",
+    "userName": "redeemnoor 17",
+    "_id": "07192-06BD6-1644325690-08D78",
+    "publishId": "cksa8mdd07th40860jzipt399",
+    "publishTitle": "الدراسات الإسلامية",
+    "pageNo": "1",
+    "link": [
+        {
+            "exportId": "",
+            "link_PreviewTitle": "Page 2 of الدراسات الإسلامية",
+            "link_enrichmentId": "",
+            "link_enrichmentTitle": "",
+            "link_enrichmentType": "",
+            "link_gallery": [],
+            "link_id": "029FC-00C0C-1644325690-04695",
+            "link_isEditable": 1,
+            "link_isSharable": 1,
+            "link_ownerType": 0,
+            "link_pageId": "2",
+            "link_pageTitle": "Page 2",
+            "link_password": "",
+            "link_publicExportId": "",
+            "link_publishId": "cksa8mdd07th40860jzipt399",
+            "link_publishThumb": "https://files.semanoor.com/cjkno7ufl1n1q0a44tf0uu2x4/cks7ginnt6oyn08602nu8bcvy/000d47fa-e12b-4da0-aa7a-d365f7df3817.PNG",
+            "link_publishTitle": "الدراسات الإسلامية",
+            "link_searchedKey": "",
+            "link_storeDetailId": "cjlnnecho2alk0a22atxy25ag",
+            "link_storeId": "cjkmqr9pi19if0a449g9xcoc4",
+            "link_subtype": 0,
+            "link_text": "one",
+            "link_type": 0,
+            "link_url": "",
+            "note_id": "",
+            "ownerId": "",
+            "ownerName": "",
+            "style": {
+                "animationId": 3,
+                "annot_type": 25,
+                "color": "#400085FE",
+                "height": 1074,
+                "rectangle": [
+                    "321_215_425_254"
+                ],
+                "length": 1,
+                "styleMode": 1,
+                "type": 0,
+                "width": 895
+            }
+        }
+    ]
+}

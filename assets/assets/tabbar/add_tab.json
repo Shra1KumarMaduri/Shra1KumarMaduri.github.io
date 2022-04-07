@@ -1,0 +1,271 @@
+{
+    "Basic": [
+        {
+            "text": "Basic Page",
+            "description": "Use basic editor to add text & media.",
+            "image": "AddTab_Text",
+            "icon_color": "#98CE99",
+            "id": 1000,
+            "icon": "",
+            "type": "0",
+            "position" : "1"
+        },
+        {
+            "text": "Drawing",
+            "description": "Use the drawing tools to draw and write.",
+            "image": "AddTab_Drawing",
+            "icon_color": "#007400",
+            "id": 988,
+            "icon": "",
+            "type": "1",
+            "position" : "1"
+        },
+        {
+            "text": "QR Codes",
+            "description": "Scan the page for QR codes and add them as a tab.",
+            "image": "AddTab_QR",
+            "icon_color": "#F8908Z",
+            "id": 14,
+            "icon": "",
+            "type": "2",
+            "position" : "1"
+        },
+        {
+            "text": "Image Gallery",
+            "description": "Add images from camera, device or internet.",
+            "image": "AddTab_Image",
+            "icon_color": "#0085fe",
+            "id": 991,
+            "icon": "",
+            "type": "3",
+            "position" : "1"
+        },
+        {
+            "text": "Video Gallery",
+            "description": "Add videos from camera, device or internet.",
+            "image": "AddTab_Video",
+            "icon_color": "#0085fe",
+            "id": 993,
+            "icon": "",
+            "type": "4",
+            "position" : "1"
+        },
+        {
+            "text": "Audio Gallery",
+            "description": "Add or record audios from device.",
+            "image": "AddTab_Audio",
+            "icon_color": "#0085fe",
+            "id": 992,
+            "icon": "",
+            "type": "5",
+            "position" : "1"
+
+        }
+    ],
+    "Advanced": [
+        {
+            "text": "Advanced Page",
+            "description": "Create an interactive tab with advanced editor tools.",
+            "image": "AddTab_Advanced",
+            "icon_color": "#98CE99",
+            "id": 1,
+            "icon": "",
+            "type": "6",
+            "position" : "1"
+        },
+        {
+            "text": "Duplicate as Image",
+            "description": "Enrich an image of the page with advanced editor tools.",
+            "image": "AddTab_DuplicateImage",
+            "icon_color": "#C284CE",
+            "id": 5,
+            "icon": "",
+            "type": "7",
+            "position" : "1"
+        },
+        {
+            "text": "Duplicate as page",
+            "description": "Edit a copy of the page with advanced editor tools.",
+            "image": "AddTab_DuplicatePage",
+            "icon_color": "#673AB7",
+            "id": 2,
+            "icon": "",
+            "type": "8",
+            "position" : "1"
+        },
+        {
+            "text": "Page from Book",
+            "description": "Add an image of a page from books in your library.",
+            "image": "AddTab_PageFromBook",
+            "icon_color": "#8B6F65",
+            "id": 4,
+            "icon": "",
+            "type": "9",
+            "position" : "1"
+        },
+        {
+            "text": "Templates",
+            "description": "Add a copy of your saved templates as a tab.",
+            "image": "AddTab_Template",
+            "icon_color": "#008B7D",
+            "id": 6,
+            "icon": "",
+            "type": "10",
+            "position" : "1"
+        },
+        {
+            "text": "OCR",
+            "description": "Scan the page or any image with OCR and add the text as a tab.",
+            "image": "AddTab_OCR",
+            "icon_color": "#F4908R",
+            "id": 15,
+            "icon": "",
+            "type": "11",
+            "position" : "1"
+        },
+        {
+            "text": "Translate",
+            "description": "Translate the page text and add it as a tab.",
+            "image": "AddTab_Translate",
+            "icon_color": "#009688",
+            "id": 16,
+            "icon": "",
+            "type": "12",
+            "position" : "1"
+        }
+    ],
+    "Interactive": [
+        {
+            "text": "Mindmap",
+            "description": "Create or link your existing mind map as a tab.",
+            "image": "AddTab_Mindmap",
+            "icon_color": "#F8908A",
+            "id": 7,
+            "icon": "",
+            "type": "13",
+            "position" : "1"
+        },
+        {
+            "text": "Flashcard",
+            "description": "Link your flashcards as a tab.",
+            "image": "AddTab_Flashcard",
+            "icon_color": "#0085fe",
+            "id": 994,
+            "icon": "",
+            "type": "14",
+            "position" : "1"
+        },
+        {
+            "text": "Exercise",
+            "description": "Create an exercise tab, export and view feedback.",
+            "image": "AddTab_Exercise",
+            "icon_color": "#2946b0",
+            "id": 995,
+            "icon": "",
+            "type": "15",
+            "position" : "1"
+        },
+        {
+            "text": "Questions",
+            "description": "Create multiple questions from the same type, export and view feedback.",
+            "image": "AddTab_Question",
+            "icon_color": "#8852d9",
+            "id": 997,
+            "icon": "",
+            "type": "16",
+            "position" : "1"
+        },
+        {
+            "text": "Quiz",
+            "description": "Create multiple questions from various types, export and view feedback.",
+            "image": "AddTab_Quiz",
+            "icon_color": "#ffa200",
+            "id": 996,
+            "icon": "",
+            "type": "17",
+            "position" : "1"
+        },
+        {
+            "text": "Rzoom",
+            "description": "Create a story in Rzoom app from this page & import back.",
+            "image": "AddTab_Rzoom",
+            "icon_color": "#E0B400",
+            "id": 990,
+            "icon": "",
+            "type": "18",
+            "position" : "1"
+        }
+    ],
+    "Internet": [
+        {
+            "text": "Internet search",
+            "description": "Link your internet search results as tabs.",
+            "image": "AddTab_Search",
+            "icon_color": "#FF724F",
+            "id": 3,
+            "icon": "",
+            "type": "19",
+            "position" : "1"
+        },
+        {
+            "text": "Youtube",
+            "description": "Link a YouTube video as a tab.",
+            "image": "AddTab_Youtube",
+            "icon_color": "#F8908A",
+            "id": 8,
+            "icon": "",
+            "type": "20",
+            "position" : "1"
+        },
+        {
+            "text": "Google Docs",
+            "description": "Link a doc from your Google Drive as a tab.",
+            "image": "AddTab_Docs",
+            "icon_color": "#008B7D",
+            "id": 11,
+            "icon": "",
+            "type": "21",
+            "position" : "1"
+        },
+        {
+            "text": "Google Sheet",
+            "description": "Link a sheet from your Google Drive as a tab.",
+            "image": "AddTab_Sheets",
+            "icon_color": "#FF724F",
+            "id": 12,
+            "icon": "",
+            "type": "22",
+            "position" : "1"
+        },
+        {
+            "text": "Google Slides",
+            "description": "Link a slide from your Google Drive as a tab.",
+            "image": "AddTab_Slides",
+            "icon_color": "#673AB7",
+            "id": 13,
+            "icon": "",
+            "type": "23",
+            "position" : "1"
+        },
+        {
+            "text": "Google Maps",
+            "description": "Link a location from Google maps as a tab.",
+            "image": "AddTab_Map",
+            "icon_color": "#8B6F65",
+            "id": 10,
+            "icon": "",
+            "type": "24",
+            "position" : "1"
+        },
+        {
+            "text": "Google Calendar",
+            "description": "Link your google calendar as a tab.",
+            "image": "AddTab_Calendar",
+            "icon_color": "#8B6F65",
+            "id": 9,
+            "icon": "",
+            "type": "25",
+            "position" : "1"
+        }
+    ]
+}

@@ -1,0 +1,536 @@
+{
+    "Emojis": {
+        "Book": [
+            {
+                "icon_color": "#bbbbbb",
+                "id": 1,
+                "icon": "iconBook",
+                "type": "blankPage"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 3,
+                "icon": "iconInternetSearch",
+                "type": "internet"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 4,
+                "icon": "iconBookSmartView_2",
+                "type": "BookSmartView-2"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 5,
+                "icon": "iconAddBook_22",
+                "type": "AddBook_22"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 7,
+                "icon": "iconSettingsNew",
+                "type": "Settings-New"
+            }
+        ],
+        "Elesson": [
+            {
+                "icon_color": "#bbbbbb",
+                "id": 8,
+                "icon": "iconBlankPage",
+                "type": "Blank-page"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 9,
+                "icon": "iconCreate",
+                "type": "Create-page"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 10,
+                "icon": "iconPageWithLines",
+                "type": "Page-with-lines"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 11,
+                "icon": "iconPdfs",
+                "type": "book-PDFs"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 12,
+                "icon": "iconBookmarkV",
+                "type": "BookMark-V"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 13,
+                "icon": "iconSettingsNew",
+                "type": "Settings-New"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 14,
+                "icon": "iconFavorites",
+                "type": "Favourites"
+            }
+        ],
+        "Enrichments": [
+            {
+                "icon_color": "#bbbbbb",
+                "id": 15,
+                "icon": "iconBlankPage",
+                "type": "Blank-page"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 16,
+                "icon": "iconDuplicateAsPage",
+                "type": "Duplicate-as-page"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 17,
+                "icon": "iconInternetSearch",
+                "type": "Internet-search"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 18,
+                "icon": "iconDuplicateAsImage",
+                "type": "Duplicate-as-Image"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 19,
+                "icon": "iconEnrich",
+                "type": "Enrich"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 20,
+                "icon": "iconMindmap",
+                "type": "mindmap"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 21,
+                "icon": "iconQrCode",
+                "type": "QR-Code"
+            }
+        ],
+        "Media": [
+            {
+                "icon_color": "#bbbbbb",
+                "id": 22,
+                "icon": "iconYoutube",
+                "type": "youtube"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 23,
+                "icon": "iconVideo",
+                "type": "Video"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 24,
+                "icon": "iconAudioLine",
+                "type": "audio"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 25,
+                "icon": "iconImage",
+                "type": "image"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 57,
+                "icon": "iconThreeDLine",
+                "type": "icon-three-d-line"
+            }
+        ],
+        "Emoji": [
+            {
+                "icon_color": "#bbbbbb",
+                "id": 26,
+                "icon": "mi_emoticon_01",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 27,
+                "icon": "mi_emoticon_02",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 28,
+                "icon": "mi_emoticon_03",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 29,
+                "icon": "mi_emoticon_04",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 30,
+                "icon": "mi_emoticon_05",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 31,
+                "icon": "mi_emoticon_06",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 32,
+                "icon": "mi_emoticon_07",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 33,
+                "icon": "mi_emoticon_08",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 34,
+                "icon": "mi_emoticon_21",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 35,
+                "icon": "mi_emoticon_22",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 36,
+                "icon": "mi_emoticon_23",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 37,
+                "icon": "mi_emoticon_24",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 38,
+                "icon": "mi_emoticon_25",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 39,
+                "icon": "mi_emoticon_26",
+                "type": "emoji"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 40,
+                "icon": "iconStyleShape1",
+                "type": "icon-style-shape-one"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 41,
+                "icon": "iconStyleShape2",
+                "type": "icon-style-shape-two"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 42,
+                "icon": "iconStyleShape3",
+                "type": "icon-style-shape-three"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 43,
+                "icon": "iconStyleShape4",
+                "type": "icon-style-shape-four"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 44,
+                "icon": "iconStyleShape5",
+                "type": "icon-style-shape-five"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 45,
+                "icon": "iconStyleShape6",
+                "type": "icon-style-shape-six"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 46,
+                "icon": "iconStyleShape7",
+                "type": "icon-style-shape-seven"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 47,
+                "icon": "iconStyleShape8",
+                "type": "icon-style-shape-eight"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 48,
+                "icon": "iconStyleShape9",
+                "type": "icon-style-shape-nine"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 49,
+                "icon": "iconStyleShape10",
+                "type": "icon-style-shape-ten"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 50,
+                "icon": "iconStyleShape11",
+                "type": "icon-style-shape-eleven"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 51,
+                "icon": "iconStyleShape12",
+                "type": "icon-style-shape-tweleve"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 52,
+                "icon": "iconStyleShape13",
+                "type": "icon-style-shape-thirteen"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 53,
+                "icon": "iconStyleShape14",
+                "type": "icon-style-shape-fourteen"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 54,
+                "icon": "iconStyleShape15",
+                "type": "icon-style-shape-fifteen"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 55,
+                "icon": "iconStyleShape16",
+                "type": "icon-style-shape-sixteen"
+            }
+        ],
+        "Rectangles": [
+            {
+                "icon_color": "#bbbbbb",
+                "id": 60,
+                "icon": "iconRoundRectangle",
+                "type": "icon-round_rectangle"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 61,
+                "icon": "iconRoundRectangleLine",
+                "type": "icon-round_rectangle_line"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 62,
+                "icon": "iconRoundRectangleDot",
+                "type": "icon-round_rectangle_dot"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 63,
+                "icon": "iconRoundRectangleDash",
+                "type": "icon-round_rectangle_dash"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 64,
+                "icon": "iconRoundRectangled2",
+                "type": "icon-round_rectangle_d2"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 65,
+                "icon": "iconRoundRectangled3",
+                "type": "icon-round_rectangle_d3"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 66,
+                "icon": "iconRoundRectangled4",
+                "type": "icon-round_rectangle_d4"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 67,
+                "icon": "iconRoundRectangled5",
+                "type": "icon-round_rectangle_d5"
+            }
+        ],
+        "Circles": [
+            {
+                "icon_color": "#bbbbbb",
+                "id": 70,
+                "icon": "iconCircleBlock",
+                "type": "icon-Circle-Block"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 71,
+                "icon": "iconCircle",
+                "type": "icon-Circle"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 72,
+                "icon": "iconCircleDash",
+                "type": "icon-circle_dash"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 73,
+                "icon": "iconCircled2",
+                "type": "icon-circle_d2"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 74,
+                "icon": "iconCircled3",
+                "type": "icon-circle_d3"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 75,
+                "icon": "iconCircled4",
+                "type": "icon-circle_d4"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 76,
+                "icon": "iconCircled5",
+                "type": "icon-circle_d5"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 77,
+                "icon": "iconCircled6",
+                "type": "icon-circle_d6"
+            }
+        ],
+        "Lines": [
+            {
+                "icon_color": "#bbbbbb",
+                "id": 80,
+                "icon": "iconLine1_25",
+                "type": "icon-line-one25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 81,
+                "icon": "iconLine2_25",
+                "type": "icon-line-two25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 82,
+                "icon": "iconLine3_25",
+                "type": "icon-line-three25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 83,
+                "icon": "iconLine4_25",
+                "type": "icon-line-four25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 84,
+                "icon": "iconLine5_25",
+                "type": "icon-line-five25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 85,
+                "icon": "iconLine6_25",
+                "type": "icon-line-six25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 86,
+                "icon": "iconLine7_25",
+                "type": "icon-line-seven25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 87,
+                "icon": "iconLine8_25",
+                "type": "icon-line-eight25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 88,
+                "icon": "iconLine9_25",
+                "type": "icon-line-nine25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 89,
+                "icon": "iconLine10_25",
+                "type": "icon-line-ten25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 90,
+                "icon": "iconLine11_25",
+                "type": "icon-line-eleven25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 91,
+                "icon": "iconLine12_25",
+                "type": "icon-line-twelve25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 92,
+                "icon": "iconLine13_25",
+                "type": "icon-line-thirteen25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 93,
+                "icon": "iconLine14_25",
+                "type": "icon-line-fourteen25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 94,
+                "icon": "iconLine15_25",
+                "type": "icon-line-fifteen-25"
+            },
+            {
+                "icon_color": "#bbbbbb",
+                "id": 95,
+                "icon": "iconLine16_25",
+                "type": "icon-line-sixteen25"
+            }
+        ]
+    }
+}
